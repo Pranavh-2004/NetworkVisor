@@ -1,0 +1,50 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.so
+*.dylib
+*.egg
+*.egg-info
+dist/
+build/
+eggs/
+*.manifest
+*.spec
+venv/
+.venv/
+env/
+ENV/
+venv.bak/
+*.log
+
+# Virtual Environment
+.venv/
+venv/
+*.env
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# IDEs
+.idea/
+.vscode/
+
+# PyCharm
+*.iml
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Test and Coverage Reports
+.coverage
+coverage.xml
+*.cover
+nosetests.xml
+test-reports/
+*.log
+*.dat
